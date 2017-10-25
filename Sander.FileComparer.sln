@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sander.FileComparer", "Sander.FileComparer\Sander.FileComparer.csproj", "{BDB4D0B0-6693-4903-88A2-66BC21EFF063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sander.FileComparer.Test", "Sander.FileComparer.Test\Sander.FileComparer.Test.csproj", "{5CA59DBE-BA60-4675-998D-7F8082B76E34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB4D0B0-6693-4903-88A2-66BC21EFF063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB4D0B0-6693-4903-88A2-66BC21EFF063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB4D0B0-6693-4903-88A2-66BC21EFF063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB4D0B0-6693-4903-88A2-66BC21EFF063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA59DBE-BA60-4675-998D-7F8082B76E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA59DBE-BA60-4675-998D-7F8082B76E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA59DBE-BA60-4675-998D-7F8082B76E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA59DBE-BA60-4675-998D-7F8082B76E34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC91ABF5-59B7-476A-BF35-D91F3307A626}
+	EndGlobalSection
+EndGlobal
